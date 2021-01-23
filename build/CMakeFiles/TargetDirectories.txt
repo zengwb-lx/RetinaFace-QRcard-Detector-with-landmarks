@@ -1,0 +1,3 @@
+/media/zengwb/PC/Face/QRcard/Face-Detector-1MB-with-landmark-master/Face_Detector_ncnn/build/CMakeFiles/rebuild_cache.dir
+/media/zengwb/PC/Face/QRcard/Face-Detector-1MB-with-landmark-master/Face_Detector_ncnn/build/CMakeFiles/FaceDetector.dir
+/media/zengwb/PC/Face/QRcard/Face-Detector-1MB-with-landmark-master/Face_Detector_ncnn/build/CMakeFiles/edit_cache.dir
